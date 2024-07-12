@@ -1,4 +1,6 @@
-[
+{
+
+"games": [
   {
     "id": 1,
     "title": "Coffee Talk",
@@ -62,8 +64,7 @@
     "link": "https://www.youtube.com/watch?v=VQlrToZaxVw&t=1s",
     "system": "Nintendo Switch",
     "description": "Em Pokémon Scarlet , somos apresentados à região de Paldea, que busca inspiração na nossa Espanha do mundo real. Pela primeira vez em um jogo da franquia, temos um mundo completamente aberto, em que todas as cidades são interligadas e podem ser exploradas livremente."
-  },
-    {
+  {
     "id": 9,
     "title": "River City Girls",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049320/capsule_616x353.jpg?t=1698777577",
@@ -135,4 +136,32 @@
     "system": "Mobile",
     "description": "Magic: The Gathering é o jogo de estampas ilustradas original- e agora você pode baixá-lo para jogar de graça com amigos, em qualquer lugar! Magic: The Gathering Arena dá a você o poder de descobrir sua estratégia, conhecer os Planeswalkers, explorar o multiverso e enfrentar amigos do mundo inteiro."
   }
-]
+],
+  "categories": [
+  {
+    "id": 1,
+    "system": "PC",
+    "color": "#2ecc71"
+  },
+  {
+    "id": 2,
+    "system": "Nintendo Switch",
+    "color": "#e74c3c"
+  },
+  {
+    "id": 3,
+    "system": "PlayStation 4",
+    "color": "#3498db"
+  },
+  {
+    "id": 4,
+    "system": "PlayStation 2",
+    "color": "#95a5a6"
+  },
+  {
+    "id": 5,
+    "system": "Mobile",
+    "color": "#9b59b6"
+  }
+  ]
+}
