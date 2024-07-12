@@ -1,0 +1,66 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Coffee Talk",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1704255891",
+      "link": "https://www.youtube.com/watch?v=WA1lEU_zTCw",
+      "system": "PC",
+      "description": "Coffee Talk é um simulador de preparação de café e conversa franca sobre como ouvir os problemas das pessoas modernas inspiradas na fantasia e ajudá-las servindo uma ou duas bebidas quentes."
+    },
+    {
+      "id": 2,
+      "title": "Animal Crossing",
+      "cover": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
+      "link": "https://www.youtube.com/watch?v=7MTE-gHTEu8",
+      "system": "Nintendo Switch",
+      "description": "Escape para uma ilha deserta e crie o seu próprio paraíso enquanto explora, cria e customiza em Animal Crossing: New Horizons. A sua ilha traz uma variedade incrível de recursos naturais que podem ser usados para criar de tudo, desde objetos para o seu conforto a ferramentas."
+    },
+    {
+      "id": 3,
+      "title": "God of War",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2917/oqIXDTKAcEOwAPzM7GhEZ0rW.jpg",
+      "link": "https://www.youtube.com/watch?v=FyIwEFXOcaE",
+      "system": "PlayStation 4",
+      "description": "Com a vingança contra os deuses do Olimpo em um passado distante, Kratos agora vive como um mortal no reino dos deuses e monstros nórdicos. É nesse mundo duro e implacável que ele deve lutar para sobreviver... e ensinar seu filho a fazer o mesmo."
+    },
+    {
+      "id": 4,
+      "title": "Warhammer 40,000: Dawn of War III",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285190/header.jpg?t=1655744092",
+      "link": "https://www.youtube.com/watch?v=gN8geCTlZOo",
+      "system": "PC",
+      "description": "Entre no combate brutal entre três facções em guerra Em Dawn of War III você não terá escolha a não ser enfrentar seus oponentes quando uma arma catastrófica é encontrada no misterioso mundo de Acheron."
+    },
+    {
+      "id": 5,
+      "title": "Midnight Club 3 ",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/f/f3/Midnight_Club_3_DUB_Edition_capa.jpg",
+      "link": "https://www.youtube.com/watch?v=6R6ZpscfQSg",
+      "system": "PlayStation 2",
+      "description": "O jogo se concentra em corridas de rua, que acontecem em três cidades dos Estados Unidos — San Diego, Atlanta e Detroit. Em cada uma das cidades, o jogador pode explorar livremente através do mundo aberto do jogo, possuindo mudanças nos horários do dia e nas condições climáticas."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "system": "PC",
+      "color": "#2ecc71"
+    },
+    {
+      "id": 2,
+      "system": "Nintendo Switch",
+      "color": "#e74c3c"
+    },
+    {
+      "id": 3,
+      "system": "PlayStation 4",
+      "color": "#3498db"
+    },
+    {
+      "id": 4,
+      "system": "PlayStation 2",
+      "color": "#95a5a6"
+    }
+  ]
+}
