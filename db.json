@@ -135,32 +135,5 @@
     "system": "Mobile",
     "description": "Magic: The Gathering é o jogo de estampas ilustradas original- e agora você pode baixá-lo para jogar de graça com amigos, em qualquer lugar! Magic: The Gathering Arena dá a você o poder de descobrir sua estratégia, conhecer os Planeswalkers, explorar o multiverso e enfrentar amigos do mundo inteiro."
   }
-]
-  "categories": [
-    {
-      "id": 1,
-      "system": "PC",
-      "color": "#2ecc71"
-    },
-    {
-      "id": 2,
-      "system": "Nintendo Switch",
-      "color": "#e74c3c"
-    },
-    {
-      "id": 3,
-      "system": "PlayStation 4",
-      "color": "#3498db"
-    },
-    {
-      "id": 4,
-      "system": "PlayStation 2",
-      "color": "#95a5a6"
-    },
-    {
-      "id": 5,
-      "system": "Mobile",
-      "color": "#9b59b6"
-    }
   ]
 }
