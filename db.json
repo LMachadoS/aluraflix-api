@@ -1,66 +1,138 @@
 {
   "games": [
-    {
-      "id": 1,
-      "title": "Coffee Talk",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1704255891",
-      "link": "https://www.youtube.com/watch?v=WA1lEU_zTCw",
-      "system": "PC",
-      "description": "Coffee Talk é um simulador de preparação de café e conversa franca sobre como ouvir os problemas das pessoas modernas inspiradas na fantasia e ajudá-las servindo uma ou duas bebidas quentes."
-    },
-    {
-      "id": 2,
-      "title": "Animal Crossing",
-      "cover": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
-      "link": "https://www.youtube.com/watch?v=7MTE-gHTEu8",
-      "system": "Nintendo Switch",
-      "description": "Escape para uma ilha deserta e crie o seu próprio paraíso enquanto explora, cria e customiza em Animal Crossing: New Horizons. A sua ilha traz uma variedade incrível de recursos naturais que podem ser usados para criar de tudo, desde objetos para o seu conforto a ferramentas."
-    },
-    {
-      "id": 3,
-      "title": "God of War",
-      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2917/oqIXDTKAcEOwAPzM7GhEZ0rW.jpg",
-      "link": "https://www.youtube.com/watch?v=FyIwEFXOcaE",
-      "system": "PlayStation 4",
-      "description": "Com a vingança contra os deuses do Olimpo em um passado distante, Kratos agora vive como um mortal no reino dos deuses e monstros nórdicos. É nesse mundo duro e implacável que ele deve lutar para sobreviver... e ensinar seu filho a fazer o mesmo."
-    },
-    {
-      "id": 4,
-      "title": "Warhammer 40,000: Dawn of War III",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285190/header.jpg?t=1655744092",
-      "link": "https://www.youtube.com/watch?v=gN8geCTlZOo",
-      "system": "PC",
-      "description": "Entre no combate brutal entre três facções em guerra Em Dawn of War III você não terá escolha a não ser enfrentar seus oponentes quando uma arma catastrófica é encontrada no misterioso mundo de Acheron."
-    },
-    {
-      "id": 5,
-      "title": "Midnight Club 3 ",
-      "cover": "https://upload.wikimedia.org/wikipedia/pt/f/f3/Midnight_Club_3_DUB_Edition_capa.jpg",
-      "link": "https://www.youtube.com/watch?v=6R6ZpscfQSg",
-      "system": "PlayStation 2",
-      "description": "O jogo se concentra em corridas de rua, que acontecem em três cidades dos Estados Unidos — San Diego, Atlanta e Detroit. Em cada uma das cidades, o jogador pode explorar livremente através do mundo aberto do jogo, possuindo mudanças nos horários do dia e nas condições climáticas."
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "system": "PC",
-      "color": "#2ecc71"
-    },
-    {
-      "id": 2,
-      "system": "Nintendo Switch",
-      "color": "#e74c3c"
-    },
-    {
-      "id": 3,
-      "system": "PlayStation 4",
-      "color": "#3498db"
-    },
-    {
-      "id": 4,
-      "system": "PlayStation 2",
-      "color": "#95a5a6"
-    }
-  ]
-}
+  {
+    "id": 1,
+    "title": "Coffee Talk",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg?t=1704255891",
+    "link": "https://www.youtube.com/watch?v=WA1lEU_zTCw",
+    "system": "PC",
+    "description": "Coffee Talk é um simulador de preparação de café e conversa franca sobre como ouvir os problemas das pessoas modernas inspiradas na fantasia e ajudá-las servindo uma ou duas bebidas quentes."
+  },
+  {
+    "id": 2,
+    "title": "Animal Crossing",
+    "cover": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
+    "link": "https://www.youtube.com/watch?v=7MTE-gHTEu8",
+    "system": "Nintendo Switch",
+    "description": "Escape para uma ilha deserta e crie o seu próprio paraíso enquanto explora, cria e customiza em Animal Crossing: New Horizons. A sua ilha traz uma variedade incrível de recursos naturais que podem ser usados para criar de tudo, desde objetos para o seu conforto a ferramentas."
+  },
+  {
+    "id": 3,
+    "title": "God of War",
+    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2917/oqIXDTKAcEOwAPzM7GhEZ0rW.jpg",
+    "link": "https://www.youtube.com/watch?v=FyIwEFXOcaE",
+    "system": "PlayStation 4",
+    "description": "Com a vingança contra os deuses do Olimpo em um passado distante, Kratos agora vive como um mortal no reino dos deuses e monstros nórdicos. É nesse mundo duro e implacável que ele deve lutar para sobreviver... e ensinar seu filho a fazer o mesmo."
+  },
+  {
+    "id": 4,
+    "title": "Warhammer 40,000: Dawn of War III",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285190/header.jpg?t=1655744092",
+    "link": "https://www.youtube.com/watch?v=gN8geCTlZOo",
+    "system": "PC",
+    "description": "Entre no combate brutal entre três facções em guerra Em Dawn of War III você não terá escolha a não ser enfrentar seus oponentes quando uma arma catastrófica é encontrada no misterioso mundo de Acheron."
+  },
+  {
+    "id": 5,
+    "title": "Midnight Club 3 ",
+    "cover": "https://upload.wikimedia.org/wikipedia/pt/f/f3/Midnight_Club_3_DUB_Edition_capa.jpg",
+    "link": "https://www.youtube.com/watch?v=6R6ZpscfQSg",
+    "system": "PlayStation 2",
+    "description": "O jogo se concentra em corridas de rua, que acontecem em três cidades dos Estados Unidos — San Diego, Atlanta e Detroit. Em cada uma das cidades, o jogador pode explorar livremente através do mundo aberto do jogo, possuindo mudanças nos horários do dia e nas condições climáticas."
+  },
+  {
+    "id": 6,
+    "title": "PC Building Simulator",
+    "cover": "https://cdn1.epicgames.com/offer/8f5f5eff22f3468fa5551771406fc868/Landscape_brazilian_1920x1080-c1ef7bf349c2aef8611987b56ea3520e",
+    "link": "https://www.youtube.com/watch?v=rq9IAJ7YulQ",
+    "system": "PC",
+    "description": "PC Building Simulator tem como objetivo ensinar até mesmo aos mais novatos usuários de PC como uma máquina é montada, com instruções passo a passo que explicam a ordem em que as peças são instaladas, incluindo informações úteis sobre a função de cada peça."
+  },
+  {
+    "id": 7,
+    "title": "The Lion's Song",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437160/capsule_616x353.jpg?t=1674648139",
+    "link": "https://www.youtube.com/watch?v=iNtavcpPADI",
+    "system": "PC",
+    "description": "The Lion's Song é um jogo de aventura narrativa. Ele é ambientado na história do início do século XX e se concentra em um elenco de artistas e cientistas austríacos, acompanhando de perto, a cada episódio, as lutas íntimas deles com a criatividade e a inspiração."
+  },
+  {
+    "id": 8,
+    "title": "Pokémon Scarlet",
+    "cover": "https://m.media-amazon.com/images/I/81EyjDeArUL.jpg",
+    "link": "https://www.youtube.com/watch?v=VQlrToZaxVw&t=1s",
+    "system": "Nintendo Switch",
+    "description": "Em Pokémon Scarlet , somos apresentados à região de Paldea, que busca inspiração na nossa Espanha do mundo real. Pela primeira vez em um jogo da franquia, temos um mundo completamente aberto, em que todas as cidades são interligadas e podem ser exploradas livremente."
+  {
+    "id": 9,
+    "title": "River City Girls",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049320/capsule_616x353.jpg?t=1698777577",
+    "link": "https://www.youtube.com/watch?v=80ZyztIMKDs",
+    "system": "Nintendo Switch",
+    "description": "A trama de River City Girls remete ao clássico River City Ransom: enquanto Misako e Kyoko amargam mais uma visita à detenção, elas recebem uma mensagem revelando que seus namorados, Kunio e Riki (respectivamente Alex e Ryan, na localização do jogo original) foram raptados."
+  },
+  {
+    "id": 10,
+    "title": "Stardew Valley",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1711128146",
+    "link": "https://www.youtube.com/watch?v=ot7uXNQskhs&t=1s",
+    "system": "Nintendo Switch",
+    "description": "Você herdou a antiga fazenda do seu avô, em Stardew Valley. Com ferramentas de segunda-mão e algumas moedas, você parte para dar início a sua nova vida. Será que você vai aprender a viver da terra, a transformar esse matagal em um próspero lar? Crie a fazenda dos seus sonhos!"
+  },
+  {
+    "id": 11,
+    "title": "Elden Ring",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/aGhopp3MHppi7kooGE2Dtt8C.png",
+    "link": "https://www.youtube.com/watch?v=E3Huy2cdih0",
+    "system": "PlaySation 4",
+    "description": "Elden Ring é ambientado em um mundo de fantasia de larga escala, conhecido como The Lands Between. O jogador assume o papel de um personagem que é conhecido como o Lorde da Ceniza, que é encarregado de encontrar e destruir as fontes do poder mágico que sustentam o mundo."
+  },
+  {
+    "id": 12,
+    "title": "Call of Duty: Modern Warfare 2",
+    "cover": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw2/meta-images/reveal/mw2-reveal-meta-share.jpg",
+    "link": "https://www.youtube.com/watch?v=bH1lHCirCGI",
+    "system": "PlaySation 4",
+    "description": "Enredo. Em julho de 2022, a Força-Tarefa 141, sob o comando do General Shepherd, realiza um ataque cirúrgico com mísseis contra as forças iranianas apoiadas pelos russos, assassinando o General iraniano Ghorbrani durante uma negociação de armas em Al Mazrah."
+  },
+  {
+    "id": 13,
+    "title": "Resident Evil 4",
+    "cover": "https://i.pinimg.com/736x/81/91/8f/81918f94bb9006d586ed794e32c0e151.jpg",
+    "link": "https://www.youtube.com/embed/AzvaN_jA1Ak?si=tyLqDe8-53Q0poyT",
+    "system": "PlaySation 4",
+    "description": "Seis anos após os eventos de Resident Evil 2, Leon Kennedy, sobrevivente de Raccoon City, foi enviado a um vilarejo isolado na Europa para investigar o desaparecimento da filha do presidente dos Estados Unidos. O que ele descobre lá é diferente de tudo o que ele já enfrentou antes."
+  },
+  {
+    "id": 14,
+    "title": "Shadow of the Colossus",
+    "cover": "https://upload.wikimedia.org/wikipedia/pt/6/66/ShadowOfTheColossusGH.jpg",
+    "link": "https://www.youtube.com/embed/r_ST15Ie-Ts?si=4fVRCbztQ8QY4dPE",
+    "system": "PlayStation 2",
+    "description": "SHADOW OF THE COLOSSUS é uma jornada espetacular por terras antigas em busca de feras gigantes. Armado com uma espada e um arco, explore os vastos terrenos e revele cada Colossus, cada um com um desafio único para testar sua inteligência, determinação e habilidade."
+  },
+  {
+    "id": 15,
+    "title": "Mortal Kombat: Armageddon",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW2QDmFacVt3zsU_o6Wmqvcku_pCbrJ7cQ9A&s",
+    "link": "https://www.youtube.com/watch?v=l58m_ye3eU4",
+    "system": "PlayStation 2",
+    "description": "O enredo gira em torno de Taven e Daegon, dois irmãos que foram colocados em hibernação suspensa porque sua mãe Delia (uma feiticeira) e seu pai Argus (o deus protetor de Edenia) previram um evento cataclísmico causado pelos lutadores do Mortal Kombat. O despertar de Taven leva ao modo Konquest."
+  },
+  {
+    "id": 16,
+    "title": "Marvel Snap",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/header.jpg?t=1704254289",
+    "link": "https://www.youtube.com/watch?v=3_5g5U0dHx0",
+    "system": "Mobile",
+    "description": "O MARVEL SNAP é um jogo frenético de cartas colecionáveis e mecânicas inovadoras, feito especialmente para dispositivos móveis. Monte seu deck de 12 cartas. Cada Carta representa um super-herói ou vilão da Marvel, cada uma com um poder ou habilidade única. O objetivo do jogo é enganar e superar seu oponente."
+  },
+  {
+    "id": 17,
+    "title": "Magic: The Gathering Arena",
+    "cover": "https://images.ctfassets.net/s5n2t79q9icq/cAQJBdFMcKDZY4BhUUsDx/616212775582792942f3927c843aea80/arena_Meta-ShareImage.jpg",
+    "link": "https://www.youtube.com/watch?v=1nNuG0wx0fU",
+    "system": "Mobile",
+    "description": "Magic: The Gathering é o jogo de estampas ilustradas original- e agora você pode baixá-lo para jogar de graça com amigos, em qualquer lugar! Magic: The Gathering Arena dá a você o poder de descobrir sua estratégia, conhecer os Planeswalkers, explorar o multiverso e enfrentar amigos do mundo inteiro."
+  }
+]
